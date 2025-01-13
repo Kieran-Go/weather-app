@@ -1,2 +1,2 @@
-This is a basic template for starting web projects.
-It includes simple, organized HTML, CSS, and JavaScript files to help with getting started quickly.
+A straightforward weather app that shows the weather for a city entered by the user.
+Designed to practice working with APIs, promises, and async/await.
